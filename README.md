@@ -1,7 +1,7 @@
 # Riyadh COVID 19 DASHBOARD CASE STUDY
 * In this project we are going to create a simple dashboard to track COVID 19 disease in Riyadh Area
 * Download the project data from the following URL: https://github.com/mohammed16/Riyadh_Covid19_Dashboard
-* Open Your IDE for example Visual Studio Code and create the basic HTML page and install the Live Server Extension
+* Open Your IDE for example Visual Studio Code and create the basic HTML page
 ```html
 <!DOCTYPE html>
 <html lang="en">
