@@ -87,6 +87,9 @@ footer.footer {
 
 ```
 * Create a new folder, and use 'js' for folder name and inside js folder create a new file and use 'script.js' for file name
+
+![Alt text](/img/add_js.gif)
+
 * Write the following statements in script.js file
 ```javascript
 var platform = new H.service.Platform({
