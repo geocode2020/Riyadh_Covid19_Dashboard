@@ -113,6 +113,11 @@ var behavior = new H.mapevents.Behavior(mapEvents);
 ```html
 <script src="js/script.js"></script>
 ```
+
+* in Visual Studio code, go to extension and search for Live Server Extention and install it then, then click on Go Live icon
+
+![Alt text](/img/go_live.gif)
+
 ## Add Districts data to your web page
 
 * in head section write the following script to include mapjs-data module
