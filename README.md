@@ -59,6 +59,8 @@
 ```
 * create a new folder, for folder name use 'css' and inside css folder create a new file and use 'style.css' for file name
 
+![Alt text](/img/add_css.gif)
+
 * write the following code inside style.css file
 ```css
 .container-fluid{
